@@ -37,7 +37,7 @@
         img{
             width: 250px;
             border-radius: 10px;
-            margin-top: 20px;
+            margin: 15px;
         }
 
         a{
@@ -78,9 +78,12 @@
 
         <h2>Welcome to My First Task of ApexPlanet</h2>
 
-   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" 
-width="250"
-alt="Web Development Image">
+        <p>
+            This webpage is created using HTML, CSS, and JavaScript.
+        </p>
+
+       <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4"
+        alt="Coding Image">
 
         <br>
 
